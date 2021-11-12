@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591604304431-rg20fpjmm6uha8ag5h9igb44has35a96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591604304431-rg20fpjmm6uha8ag5h9igb44has35a96</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>591604304431-883lk2bgicsisivff4r5sk8jkubj16uf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYG-dOMMiyCPcL-WhSZD6rOQhmcU8o4EE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591604304431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.csi.scadaIos</string>
+	<key>PROJECT_ID</key>
+	<string>scada-android-22d24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scada-android-22d24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591604304431:ios:3747cf5965e2a6ccc2d4da</string>
+	<key>DATABASE_URL</key>
+	<string>https://scada-android-22d24-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
